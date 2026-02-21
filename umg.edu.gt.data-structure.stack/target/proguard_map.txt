@@ -1,0 +1,14 @@
+umg.edu.gt.data_structure.stack.Stack -> umg.edu.gt.data_structure.stack.Stack:
+    umg.edu.gt.data_structure.stack.Stack$Node top -> a
+    int size -> a
+    void <init>() -> <init>
+    void push(java.lang.Object) -> push
+    java.lang.Object pop() -> pop
+    java.lang.Object peek() -> peek
+    boolean isEmpty() -> isEmpty
+    int getSize() -> getSize
+    java.lang.Object getNodeInit() -> getNodeInit
+umg.edu.gt.data_structure.stack.Stack$Node -> umg.edu.gt.data_structure.stack.a:
+    java.lang.Object data -> a
+    umg.edu.gt.data_structure.stack.Stack$Node next -> a
+    void <init>(java.lang.Object) -> <init>

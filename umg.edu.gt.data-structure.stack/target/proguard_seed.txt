@@ -1,0 +1,8 @@
+umg.edu.gt.data_structure.stack.Stack
+umg.edu.gt.data_structure.stack.Stack: Stack()
+umg.edu.gt.data_structure.stack.Stack: void push(java.lang.Object)
+umg.edu.gt.data_structure.stack.Stack: java.lang.Object pop()
+umg.edu.gt.data_structure.stack.Stack: java.lang.Object peek()
+umg.edu.gt.data_structure.stack.Stack: boolean isEmpty()
+umg.edu.gt.data_structure.stack.Stack: int getSize()
+umg.edu.gt.data_structure.stack.Stack: java.lang.Object getNodeInit()
